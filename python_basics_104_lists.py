@@ -69,3 +69,15 @@ print(type(mortal_enemies))
 # If you try to reassign it will break (will not work) e.g.
 # mortal_enemies[0] = 'Goku'
 print(mortal_enemies)
+
+# Example of creating amazing list for end of the world survival
+list_of_kit = []
+item_1 = input('What is your first item to keep?')
+list_of_kit.append(item_1)
+item_2 = input('What is your second item to keep?')
+list_of_kit.append(item_2)
+item_3 = input('What is your third item to keep?')
+list_of_kit.append(item_3)
+
+print('Hey there partner you have a nice list!')
+print(list_of_kit)

@@ -1,4 +1,5 @@
-# Variables
+# Variables, print statements and type statement
+# Input statements
 ## It's like a box
 ##It has a name and has stuff inside
 ## you can REUSE THE BOX
