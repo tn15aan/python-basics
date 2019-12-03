@@ -17,7 +17,6 @@ attire2 = 'take rain coat'
 attire3 = 'Take your umbrella'
 attire4 = 'stay home'
 
-
 weather = input('How is the weather? Please choose between sunny, stormy, rainy')
 if weather == 'sunny':
     print(attire1)
